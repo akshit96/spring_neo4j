@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Code_graph>
+    <Employee>
+    <name>Nilesh_CN</name>
+    <college_name> DTU </college_name>
+    <address> Delhi </address>
+    </Employee>
+    <Employee>
+    <name>Mustaque_CN</name>
+    <college_name>Pesit </college_name>
+    <address> Banglore</address>
+    </Employee>
+    <Employee>
+        <name>Pranet_CN</name>
+        <college_name> BITS Pilani </college_name>
+        <address> Rajashtan </address>
+    </Employee>
+    <Employee>
+        <name>Aakash_CN</name>
+        <college_name> IIT Indore </college_name>
+        <address> Delhi </address>
+    </Employee>
+    <Employee>
+        <name>Akshit_CN</name>
+        <college_name> BITS Pilani </college_name>
+        <address> Rajasthan </address>
+    </Employee>
+    <intern_rel>
+        <mentor>Nilesh_CN</mentor>
+        <mentee>Pranet_CN</mentee>
+    </intern_rel>
+    <intern_rel>
+        <mentor>Pranet_CN</mentor>
+        <mentee>Akshit_CN</mentee>
+    </intern_rel>
+    <intern_rel>
+        <mentor>Mustaque_CN</mentor>
+        <mentee>Aakash_CN</mentee>
+    </intern_rel>
+</Code_graph>
